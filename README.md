@@ -7,6 +7,8 @@ If you would like to check out some of these designs, feel free to browse the fo
 If you would like to provide feedback on some of the designs or have any questions, feel free to create an issue! I am fairly new to design, so any feedback or comment is welcome! 
 
 
+## Daily UI Challenge
+
 Day 1 Sign-up Form
 
 Day 2 Credit Card Checkout
