@@ -9,20 +9,20 @@ If you would like to provide feedback on some of the designs or have any questio
 
 ## Designs
 
-### Day 1 Sign-up Form
+#### Day 1 Sign-up Form
 A sign up form for the 76th Hunger Games 
 
-### Day 2 Credit Card Checkout
+#### Day 2 Credit Card Checkout
 A check out page with a visa credit card as the payment method 
 
-### Day 3 Landing Page
+#### Day 3 Landing Page
 A landing page for my product class project BridgeTech 
 
-### Day 4 Calculator
+#### Day 4 Calculator
 A calculator with functions such as history and using parenthesis 
 
-### Day 5 App Icon
+#### Day 5 App Icon
 An mobile app icon for my product class project BridgeTech 
 
-### Day 6 User Profile
+#### Day 6 User Profile
 A user profile for a video game character 
